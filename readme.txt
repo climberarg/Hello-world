@@ -1,1 +1,2 @@
-project description
+project description 
+some more info
